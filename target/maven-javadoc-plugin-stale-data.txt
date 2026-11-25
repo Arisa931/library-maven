@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/Users/risa/Downloads/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/risa/Downloads/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0.0 API'
+-use
+-version
+-windowtitle
+'library 1.0.0 API'
+ui
+models
+utilities
+/Users/risa/Downloads/library/src/main/java = 1795616734145
+/Users/risa/Downloads/library/target/reports/apidocs/tag-search-index.js = 1795617149985
+/Users/risa/Downloads/library/target/reports/apidocs/overview-tree.html = 1795617149976
+/Users/risa/Downloads/library/target/reports/apidocs/module-search-index.js = 1795617149984
+/Users/risa/Downloads/library/target/reports/apidocs/index.html = 1795617149977
+/Users/risa/Downloads/library/target/reports/apidocs/package-search-index.js = 1795617149984
+/Users/risa/Downloads/library/target/reports/apidocs/serialized-form.html = 1795617149959
+/Users/risa/Downloads/library/target/reports/apidocs/index-all.html = 1795617149989
+/Users/risa/Downloads/library/target/reports/apidocs/allpackages-index.html = 1795617149983
+/Users/risa/Downloads/library/target/reports/apidocs/member-search-index.js = 1795617149984
+/Users/risa/Downloads/library/target/reports/apidocs/overview-summary.html = 1795617149990
+/Users/risa/Downloads/library/target/reports/apidocs/help-doc.html = 1795617149992
+/Users/risa/Downloads/library/target/reports/apidocs/element-list = 1795617149946
+/Users/risa/Downloads/library/target/reports/apidocs/search.html = 1795617149990
+/Users/risa/Downloads/library/target/reports/apidocs/allclasses-index.html = 1795617149983
+/Users/risa/Downloads/library/target/reports/apidocs/type-search-index.js = 1795617149984

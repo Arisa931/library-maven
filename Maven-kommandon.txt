@@ -1,0 +1,13 @@
+Maven – library
+Kör i projektets rot med JDK 17 eller senare och Maven 3.9+.
+
+mvn clean – tar bort target och tidigare kompilerade filer.
+mvn compile – kompilerar huvudklasser till target/classes.
+mvn test – kompilerar och kör JUnit-tester; rapporter i target/surefire-reports.
+mvn package – kompilerar, testar och skapar JAR-filen.
+mvn javadoc:javadoc – genererar API-dokumentation.
+mvn surefire-report:report-only – skapar HTML-rapport från befintliga testresultat.
+java -jar target/library-1.0.0.jar – kör programmet.
+
+Kör i denna ordning, och kör INTE clean igen före inlämning.
+Kontrollera att target innehåller verkliga byggresultat och lägg till hela target i Git.

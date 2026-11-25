@@ -1,0 +1,11 @@
+/Users/risa/Downloads/library/src/main/java/models/Book.java
+/Users/risa/Downloads/library/src/main/java/models/BookCatalog.java
+/Users/risa/Downloads/library/src/main/java/models/BookNotFoundException.java
+/Users/risa/Downloads/library/src/main/java/models/Customer.java
+/Users/risa/Downloads/library/src/main/java/models/Loan.java
+/Users/risa/Downloads/library/src/main/java/models/LoanAlreadyExistsException.java
+/Users/risa/Downloads/library/src/main/java/models/LoanNotFoundException.java
+/Users/risa/Downloads/library/src/main/java/models/Material.java
+/Users/risa/Downloads/library/src/main/java/ui/Main.java
+/Users/risa/Downloads/library/src/main/java/utilities/GenderType.java
+/Users/risa/Downloads/library/src/main/java/utilities/LoanStatus.java
